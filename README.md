@@ -2,7 +2,6 @@
 
 GIRI is a personal voice-activated assistant built using Python. It listens to your commands and performs various tasks such as playing songs on YouTube, telling the time, fetching information from Wikipedia, telling jokes, and even opening applications like Google Chrome and VS Code.
 
----
 
 ## 🚀 Features
 
@@ -15,7 +14,6 @@ GIRI is a personal voice-activated assistant built using Python. It listens to y
 - 🖥️ **App Launcher** – Opens apps like Google Chrome or VS Code.
 - 🕒 **Time Inquiry** – Tells the current time.
 
----
 
 ## 📁 Project Structure
 
@@ -33,9 +31,6 @@ Install the following Python packages before running the assistant:
 pip install SpeechRecognition pyttsx3 pywhatkit wikipedia pyjokes pyaudio
 Note: On Windows, installing pyaudio may require a compatible .whl file. You can use:
 
-nginx
-Copy
-Edit
 pip install pipwin
 pipwin install pyaudio
 ▶️ How to Run
